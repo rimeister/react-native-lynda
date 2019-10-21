@@ -30,7 +30,7 @@ const App: () => React$Node = () => {
     <>
       <View style={styles.sectionContainer}>
         <Text style={styles.sectionTitle}>
-          Hello World!!!
+          W O R D
         </Text>
       </View>
     </>
