@@ -25,11 +25,12 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 
 const App: () => React$Node = () => {
+  console.log("Hello developers!!");
   return (
     <>
       <View style={styles.sectionContainer}>
         <Text style={styles.sectionTitle}>
-          Hello World!
+          Hello World!!!
         </Text>
       </View>
     </>
